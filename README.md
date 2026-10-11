@@ -1,1 +1,1 @@
-Astra makes Jibo look similar to Amazon Astro. It also replaces the menu with a custom menu. This theme is minimalistic and also monotone
+Astra makes Jibo look similar to Amazon Astro. It also replaces the menu with a custom menu. This theme is minimalistic and used as an example for theme-makers.
