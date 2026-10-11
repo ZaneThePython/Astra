@@ -1,8 +1,9 @@
 {
-    "buttonSize": 95,
+    "buttonSize": 75,
     "iconSize": 90,
     "iconPlacement": "x0 y5",
     "textSize": 10,
     "textPlacement": "x0 y-40",
+    "menuType": "dynamic",
     "backgroundColor": "#000000"
 }
