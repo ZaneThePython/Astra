@@ -1,4 +1,0 @@
-same thing as with the face, but for the menu, the buttons will actually reflect the percent of Jibo's screen it takes up vertically. So for example, 100 means that the image for the button will take up 100% of Jibo's vertical screen space. iconSize means the percentage of the button it will take up. If it's 50 then the icon rendered at half the size of the button. The iconPlacement is sorta self explanatory, it's the offset from the center of the button that the icon will have. For example:
-0x 5y
-That will put the icon a bit above the center of the button. The x and y only go up to 50 and down to -50 and at 50 the center of the icon will be at the top edge of the button. The same applies to x where if it's 50x then it will be at the right edge of the button.
-The same thing applies to the text, where the size refers to the size of the text compared to the overall size of the image, so size 20 means that the text will take up 20% of the vertical space on the button
